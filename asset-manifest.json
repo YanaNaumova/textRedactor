@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/textRedactor/static/css/main.8da5bedb.css",
+    "main.js": "/textRedactor/static/js/main.7aba675d.js",
+    "index.html": "/textRedactor/index.html",
+    "main.8da5bedb.css.map": "/textRedactor/static/css/main.8da5bedb.css.map",
+    "main.7aba675d.js.map": "/textRedactor/static/js/main.7aba675d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8da5bedb.css",
+    "static/js/main.7aba675d.js"
+  ]
+}
